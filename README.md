@@ -7,7 +7,8 @@ ImMesh
 `ImMesh` (pronounced 'i-am-mesh') is a C++ Mesh Parser and Visualizer project meant specifically for Roblox's FileMesh format.  
 
 ### Credits
-_#_ [@MaximumADHD](https://github.com/MaximumADHD/) - Roblox DevForum post explaining FileMesh structure; you can check it out [here](https://devforum.roblox.com/t/roblox-filemesh-format-specification/326114).
+_#_ [@MaximumADHD](https://github.com/MaximumADHD/) - Roblox DevForum post explaining FileMesh structure; you can check it out [here](https://devforum.roblox.com/t/roblox-filemesh-format-specification/326114).  
+_#_ [@syringeefy](https://github.com/syringeefy) (i.e. @.syringee) - Contributor
 
 #### License
 
