@@ -5,7 +5,7 @@ ImMesh
 [![License](https://img.shields.io/badge/GitHub-License-blue?logo=github)](https://github.com/kitodoescode/ImMesh/blob/main/LICENSE)
 
 `ImMesh` is a Mesh Parser and Visualizer project meant specifically for Roblox's FileMesh format.  
-It uses a custom Mesh Parser for extracting data and ImGui and WebGL to display graphics and the Mesh.
+It uses a custom Mesh Parser for extracting data and ImGui and OpenGL to display graphics and the Mesh.
 
 ### Credits
 _#_ [@MaximumADHD](https://github.com/MaximumADHD/) - Roblox DevForum post explaining FileMesh structure; you can check it out [here](https://devforum.roblox.com/t/roblox-filemesh-format-specification/326114).
